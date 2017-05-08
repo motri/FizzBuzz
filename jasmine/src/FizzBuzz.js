@@ -1,1 +1,1 @@
-controle.log(1..100)
+function FizzBuzz(){};
